@@ -1,4 +1,7 @@
 
+# Build output (Run-EmployeeSystem.bat compiles into build/)
+build/
+
 # Compiled executable files
 *.exe
 *.out
